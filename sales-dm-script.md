@@ -1,43 +1,50 @@
-# CackOps — Sales DM Script
+# CackOps — Sales DM Script (Jarad Voice)
 
-## Version 1 (Short)
-Hey — if your bot setup is half-working and eating your week, I can fix it end-to-end.
+## Cold/First DM
+If your bot setup is janky, I can fix it fast.
 
-I do live OpenClaw hardening in Telegram:
-- install + gateway
-- Telegram routing
-- hooks/skills/memory
-- heartbeat + guardrails
+I do OpenClaw hardening live in Telegram:
+- install/gateway cleanup
+- chat routing fixed
+- memory/hooks/skills tuned
+- behavior + guardrails tightened
 
-You watch every step, then get a tested handoff.
+You watch every step. You get a tested handoff.
 
-Want the **Guided ($149)** or **DFY ($499)** option?
-
----
-
-## Version 2 (Discovery First)
-Love the bot idea. Quick check so I point you right:
-
-1) What machine/OS are you on?  
-2) Is OpenClaw already installed?  
-3) What’s the biggest blocker right now?  
-4) Do you want to DIY with guidance or fully done-for-you?
-
-Based on that, I’ll recommend the fastest path.
+Want **Guided ($149)** or **DFY ($499)**?
 
 ---
 
-## Objection Handling
-### “I can probably do this myself.”
-Totally. Most people can — it just costs 10–40 hours and still leaves brittle gaps. I compress that into one session with hardening included.
+## Discovery DM
+Cool — quick triage so I point you to the fastest path:
 
-### “How do I know it’ll actually work?”
-You watch the entire process live in Telegram, and we run validation at the end before handoff.
+1) What machine + OS?  
+2) Is OpenClaw installed right now?  
+3) What’s the most annoying failure today?  
+4) Do you want to learn it (Guided) or just have it done (DFY)?
 
-### “What if something breaks later?”
-That’s what Managed Bot Ops is for ($999/mo), or you can take the 7-day stabilization add-on.
+I’ll tell you exactly what to book.
+
+---
+
+## Objection: “I can do this myself”
+100% you can.
+Question is: do you want to spend your week in setup debt, or spend 60 minutes and get back to building?
+
+---
+
+## Objection: “How do I know it’ll work?”
+You watch it happen live in Telegram.
+No black box. No hand-wavy “should be good.”
+We validate before handoff.
+
+---
+
+## Objection: “What if it breaks later?”
+Grab stabilization support or Managed Ops.
+You can buy once, or have us keep it sharp.
 
 ---
 
 ## Close
-Want me to send the intake and lock a slot this week?
+Want me to send intake + available slots?

@@ -1,89 +1,87 @@
-# CackOps — Landing Page Copy (User-Language Version)
+# CackOps — Landing Page Copy (Jarad Voice)
 
 ## Headline
-Get your AI bot working this week — without wasting another weekend on setup.
+Your bot shouldn’t feel like a science project.
+We make it work. Fast.
 
 ## Subhead
-We set up and tune your OpenClaw bot for you, live in Telegram, so it responds in the right places and actually helps your business.
+If your OpenClaw setup is half-working, weird, or randomly chaotic, we’ll harden it live in Telegram so it behaves like a real operator tool — not a toy.
 
 ## Primary CTA
-**Book My Bot Setup**
+**Fix My Bot This Week**
 
 ---
 
-## The Problem (in plain English)
-You’ve already tried to set it up.
-You’re not lazy, and you’re not bad with tech.
-But every “quick fix” turns into another rabbit hole:
+## The Real Talk
+You already tried to do this yourself.
+You’re smart. You can read docs. You can debug.
 
-- messages show up in the wrong chat (or nowhere)
-- it talks too much in groups, then goes silent when you need it
-- one setting fix breaks two other things
-- you’re never sure what’s really done vs. barely working
+But this stack has a lot of moving pieces, and one wrong turn burns hours.
 
-You don’t need more tutorials.
-You need someone to make it work end-to-end.
+So you end up with:
+- bot replies in the wrong place
+- random group spam (or dead silence)
+- “it worked yesterday” mystery breakage
+- zero trust in what’s actually stable
+
+That’s not a skill issue. That’s setup debt.
 
 ---
 
-## What We Do
-We handle the setup and tuning while you watch progress live.
+## What We Actually Do
+We come in, clean it up, and leave you with a bot that runs like it should.
 
-By the end, you have a bot that:
-- replies where it should
-- stays quiet when it should
+By the end, your bot:
+- answers in the right chats
+- shuts up when it should
 - remembers useful context
-- runs your automations reliably
-- doesn’t need constant babysitting
+- runs automations without drama
+- stops wasting your time
+
+You can watch the whole process happen live in Telegram.
 
 ---
 
-## Why People Buy This
-Because your time is worth more than trial-and-error setup.
+## Why This Is Worth Paying For
+Because your time is expensive.
 
-**DIY path:** 10–40+ hours of guessing and patching  
-**CackOps path:** 30–90 minutes to a stable baseline
+**DIY:** 10–40+ hours of guessing and patching  
+**CackOps:** 30–90 minutes to a stable baseline
 
-You get momentum back fast.
+You can keep tinkering forever, or you can start shipping.
 
 ---
 
-## Offer Ladder
+## Packages
 
-### 1) Guided Setup — $149
-You share screen, we direct every step.
+### Guided Setup — $149
+You drive, we direct. Cheapest path to “finally working.”
 
-**Best if:** you want to learn while fixing it now.
+### DFY Setup + Hardening — $499
+We do it for you end-to-end. Best value for speed.
 
-### 2) Done-For-You Setup + Hardening — $499
-We do the full setup and tuning for you.
-
-**Best if:** you want this solved with minimal effort.
-
-### 3) Managed Bot Ops — $999/mo
-We keep your bot healthy, updated, and improving.
-
-**Best if:** you want outcomes, not maintenance chores.
+### Managed Bot Ops — $999/mo
+We keep it healthy, updated, and improving so you don’t babysit infrastructure.
 
 ---
 
 ## What You Walk Away With
-- a working, tested bot setup
-- cleaner behavior in DMs and groups
-- a clear “what to do next” handoff
-- confidence that this won’t crumble tomorrow
+- tested, working setup
+- cleaner DM/group behavior
+- confidence in your system
+- clear next steps for growth
 
 ---
 
 ## Identity Shift
-**Before:** “I’m trying to get this bot to work.”  
-**After:** “My bot is part of how I operate.”
+**Before:** “I’m trying to get my bot to work.”  
+**After:** “My bot is part of how I run operations.”
 
-**From tinkering to operating.**
+**From fiddling to operating.**
 
 ---
 
 ## Final CTA
-If your bot is half-working and draining your time, let’s fix it properly.
+If your bot is almost-there but still wasting your week, let’s end that.
 
-**DM: “BOT SETUP”**
+**DM: BOT SETUP**
